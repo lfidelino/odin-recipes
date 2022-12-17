@@ -1,6 +1,6 @@
 # odin-recipes
 
-A simple website that links to some of my favorite recipes.
+A simple website that links to some of my favorite recipes. See it on [GitHub Pages](https://lfidelino.github.io/odin-recipes/).
 
 This is the first project of [The Odin Project's Foundations Course](https://www.theodinproject.com/lessons/foundations-recipes).
 
