@@ -7,7 +7,7 @@ This is the [first project of The Odin Project's Foundations Course](https://www
 What I've learned so far:
 
 - How the internet works.
-- Setting up my working envoronment.
+- Setting up my working environment.
 - Using the command line.
 - Setting up and using Git and GitHub.
 - Creating web pages using HTML.
